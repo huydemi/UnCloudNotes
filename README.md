@@ -21,4 +21,4 @@ The Migration Process
 
 Source:
 
-- [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
+- [Lightweight Migrations in Core Data Tutorial](https://www.raywenderlich.com/174025/lightweight-migrations-in-core-data-tutorial)
